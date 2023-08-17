@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am Ariyan, and my ambition is to excel as a software engineer.<br><br>- 🔭 I’m currently a student<br>- 📚 I'm currently AstroJs and Go<br>- ⚡ In my free time I usually code stuff</p>
+<p align="left">I am Ariyan, and my ambition is to excel as a software engineer.<br><br>- 🔭 I’m currently a student<br>- 📚 I'm currently learning AstroJs and Go<br>- ⚡ In my free time I usually code stuff</p>
 
 ###
 
