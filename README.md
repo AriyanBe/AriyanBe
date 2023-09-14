@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">HELLO FRIEND</h1>
+<h1 align="center">HELLO FRIEND!</h1>
 
 ###
 
